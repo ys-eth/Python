@@ -6,7 +6,7 @@
 
 ## Short description:
 
-In this program, we are tasked to create a calculator for perofming matrix operations that exploits the expected sparseness of its matrix operands.
+In this program, we are tasked to create a calculator for performing matrix operations that exploits the expected sparseness of its matrix operands.
 
 ## Build
 
